@@ -1,10 +1,10 @@
-** TweepyBot **
-* My new BOT created with python :) *
+** Titre **
+* Sous titre *
 
-If it's check, it's already programm
 
-- [x] Publish Programm tweet.
-- [ ] Personnal your tweet
-- [ ] Interact with him
+
+- [x] 
+- [ ]
+- [ ]
 
 Version: BETA 0.1
